@@ -13,4 +13,6 @@ return {
     "PRESS Y!!!! PRESS Y Y Y Y!!!!!!!",
     "Jraine gangg ⛓️🩸⛓️🩸",
     "If its a depot got a bite it🥶🥶🥶",
+    "gg.phantomforces | gg.phantomforces | gg.phantomforces",
+    "Wheres your gg.phantomforces access baseplate random?"
 }
