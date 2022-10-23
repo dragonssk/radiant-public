@@ -11,6 +11,6 @@ return {
     "I'm Just Built Different 🧱🧱🧱",
     "how does it feel to not have radiant 🤣🤣🤣😂😂😹😹😹",
     "PRESS Y!!!! PRESS Y Y Y Y!!!!!!!",
-    "Janee gangg ⛓️🩸⛓️🩸",
+    "Jraine gangg ⛓️🩸⛓️🩸",
     "If its a depot got a bite it🥶🥶🥶",
 }
