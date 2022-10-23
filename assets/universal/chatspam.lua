@@ -6,5 +6,5 @@ return {
     '😦 I Guess ❌ Nobody Can Read 😡',
     'I NEED ACCESS 🔑🔓 TO RADIANT 🤖📃📃📃 👈 THIS THING CALLED RADIANT, I NEED IT',
     'before i user radiant: 😔 😭 🙁 after i user radiant: 🤑 😝',
-    "god i wish i had radiant..... ",
+    "i wish i had radiant..... ",
 }
