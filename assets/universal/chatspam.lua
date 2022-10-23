@@ -1,4 +1,4 @@
-{
+return {
     '🤖 Calling Reinforcements 😈 Spawn 🤫 On Me ❗',
     '🤖 Why havent 😂 You Joined 😯 gg/phantomforces 💀 Bad Player ⚠️',
     'votekick him!!!!!!! 😠 VK VK VK VK VOTEKICK HIM!!!!!!!!! 😠 😢 VOTE KICK !!!!! PRESS Y WHY DIDNT U PRESS Y!!!!!! 😭',
