@@ -10,5 +10,7 @@ return {
     "can't hear you over these kill sounds",
     "I'm Just Built Different 🧱🧱🧱",
     "how does it feel to not have radiant 🤣🤣🤣😂😂😹😹😹",
-    "PRESS Y!!!! PRESS Y Y Y Y!!!!!!!",   
+    "PRESS Y!!!! PRESS Y Y Y Y!!!!!!!",
+    "Janee gangg ⛓️🩸⛓️🩸",
+    "If its a depot got a bite it🥶🥶🥶",
 }
