@@ -14,5 +14,10 @@ return {
     "Jraine gangg ⛓️🩸⛓️🩸",
     "If its a depot got a bite it🥶🥶🥶",
     "gg.phantomforces | gg.phantomforces | gg.phantomforces",
-    "Wheres your gg.phantomforces access baseplate random?"
+    "Wheres your radium access NN?",
+    "HOw do you get ACCESS to this SCRIIPT???!!?😔😔 TELL ME NOW!!😡😡 ",
+    "clipped that 🤡",
+    "report him!11!!😡😡😡 omghs report!!😠😠😠 do /report!!😱😱😱",
+    "BOO HOO 😢😢😭😭😭 STOP CRYING",
+    "Why the hekk does this freeaky conveersation use an excessive amount of emojis😱😱😱😱😱??!??",
 }
