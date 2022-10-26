@@ -23,9 +23,9 @@ local library = {
     ended = {},
     colors = {},
     folders = {
-        main = "crip",
-        assets = "crip/assets",
-        configs = "crip/configs"
+        main = ".radiant",
+	assets_main = ".radiant/assets",
+        assets = ".radiant/assets/ui",
     },
     shared = {
         initialized = false,
