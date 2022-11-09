@@ -1,7 +1,6 @@
--- radiant
--- no leaking!!
 -- made by dragonssk
 -- discord.gg/phantomforces
+-- radiant
 
 local torso_size = Vector3.new(5, 5, 5) -- default 2, 2, 1
 local step = 1/24
