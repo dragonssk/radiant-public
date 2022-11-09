@@ -45,7 +45,7 @@ local entity = {} do
         if not p_entry._thirdPersonObject then return end
         if not p_entry._thirdPersonObject:getCharacterModel() then return end
 
-        -- you're pasting this LOL
+        -- you're pasting this? LOL
         
         return p_entry, p_entry._thirdPersonObject, p_entry._thirdPersonObject:getCharacterModel()
     end
