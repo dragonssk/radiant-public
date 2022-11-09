@@ -101,6 +101,6 @@ task.spawn(function()
     wm_text.Size = 13
 
     while task.wait(0.9) do
-        wm_text.Text = 'radiant | beta | '..os.date("%x %X", os.time())
+        wm_text.Text = 'radiant | free | '..os.date("%x %X", os.time())
     end
 end)
